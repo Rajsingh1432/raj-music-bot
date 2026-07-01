@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Credentials (NEVER commit these!)
+.env
+config.py
+*.session
+*.session-journal
+
+# Downloads
+downloads/*
+!downloads/.gitkeep
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

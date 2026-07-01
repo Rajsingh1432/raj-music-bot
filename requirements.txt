@@ -1,0 +1,18 @@
+# 🎵 V3NOM Music Pro Bot - Requirements
+# Install: pip install -r requirements.txt
+
+# Core
+pyrogram>=2.0.0
+py-tgcalls>=1.2.0
+
+# YouTube
+yt-dlp>=2024.0.0
+
+# Utilities
+aiohttp>=3.8.0
+aiofiles>=22.0.0
+
+# Optional (for advanced features)
+# motor>=3.0.0  # MongoDB (for database)
+# pymongo>=4.0.0
+# psutil>=5.9.0  # System stats
